@@ -1,0 +1,16 @@
+# This is a CODEOWNERS file for the repository.
+# It specifies individuals or teams responsible for different parts of the codebase.
+
+# Default owner for the entire repository
+*       @jdacanay03
+
+# Ownership for specific directories or files
+/docs/  @doc-team
+/src/   @dev-team @your-username
+
+# Ownership for specific file types
+*.md    @editor-team
+*.js    @frontend-team
+
+# Ownership for specific files
+README.md   @maintainer
